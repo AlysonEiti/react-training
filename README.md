@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/AlysonEiti/voce-mais-bela/blob/main/src/assets/images/logo2.png" alt="watermark Alyson Eiti"> </p>
+<p> <img src="https://github.com/AlysonEiti/voce-mais-bela/blob/main/src/assets/images/logo2.png" alt="watermark Alyson Eiti"> </p>
 <p>A space to to testing and studying new functionalities.</p>
 
 <hr>
@@ -15,4 +15,4 @@
 
 ## List of functionalities
 * Multi step form
-![Screenshot of the project CineTag](https://imgur.com/nKUf7MK.png)
+![Screenshot of the project CineTag](https://github.com/AlysonEiti/react-training/blob/Main/public/images/multi-step-form.png)
