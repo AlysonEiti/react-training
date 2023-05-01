@@ -6,23 +6,23 @@ import {
 
 const emojiData = {
   unsatisfied: <BsFillEmojiFrownFill />,
-  neutral: <BsFillEmojiSmileFill />,
-  satisfied: <BsFillEmojiFrownFill />,
+  neutral: <BsFillEmojiNeutralFill />,
+  satisfied: <BsFillEmojiSmileFill />,
   very_satisfied: <BsFillEmojiHeartEyesFill /> 
 }
 
 export default function Thanks({ data }) {
   return (
     <div className={styles['thanks-container']}>
-      <h2>Falta pouco...</h2>
+      <h2>Almost there...</h2>
       <p>
-        A sua opinião é muito importante, em breve você receberá um cupom de 10% de desconto para a sua próxima compra.
+        Your opnion is important to us, soon you will get a 10% discount ticket for your next purchase.
       </p>
       <p>
         Para concluir sua avaliação, clique no botão de Enviar abaixo.
       </p>
       <h3>
-        Aqui está o resumo da sua avaliação {data.name}
+        Here's your review {data.name}
       </h3>
       <p className={styles['review-data']}>
         <span>Satisfação com o produto:</span>

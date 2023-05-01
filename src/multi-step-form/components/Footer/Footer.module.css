@@ -1,0 +1,13 @@
+.footer {
+    margin-top: 15px;
+    color: #777;
+    font-size: 13px;
+    font-weight: 600;
+    text-align: center;
+}
+.footer a {
+    color: #777;
+}
+.footer a:hover, footer a:focus {
+    color: #323ef0;
+}
